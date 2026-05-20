@@ -1,0 +1,19 @@
+cat << 'EOF' > .gitignore
+# 忽略 Python 缓存
+__pycache__/
+*.pyc
+
+# 忽略虚拟环境
+venv/
+.venv/
+env/
+
+# 忽略大文件、权重和数据集
+*.pth
+*.pt
+*.ckpt
+data/
+datasets/
+output/
+logs/
+EOF

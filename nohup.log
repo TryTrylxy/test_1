@@ -1,0 +1,12 @@
+nohup: 忽略输入
+1
+2
+
+======================================
+🚀 运行 Config 2 | 组合 1
+📌 参数：{'do_img_neg': False, 'do_neg': True, 'do_TxT': True, 'do_abc': True}
+python retrieval.py --config ./configs/vitb32/vg/cusa_restate_sl2.yaml --fig '{"do_img_neg": false, "do_neg": true, "do_TxT": true, "do_abc": true}' > /home/jncsnlp3/SSD2/syy/aaai24_itr_cusa-main_07/train.log 2>&1
+❌ 失败
+3
+
+🎉 所有任务执行完毕！

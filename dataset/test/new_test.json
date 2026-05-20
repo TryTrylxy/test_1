@@ -1,0 +1,52 @@
+[
+    {
+        "image_path": "/home/jncsnlp3/SSD2/syy/aaai24_itr_cusa-main_06/dataset/test/ChatGPT Image 2025年8月31日 下午12_11_17.png",
+        "caption": "A man stands to the left of a woman, talking on the phone.",
+        "image_id": "01"
+    }, 
+    {
+        "image_path": "/home/jncsnlp3/SSD2/syy/aaai24_itr_cusa-main_06/dataset/test/ChatGPT Image 2025年8月31日 下午12_11_19.png",
+        "caption": "A man stands to the right of a woman, talking on the phone.",
+        "image_id": "02"
+    }, 
+    {
+        "image_path": "/home/jncsnlp3/SSD2/syy/aaai24_itr_cusa-main_06/dataset/test/ChatGPT Image 2025年8月31日 下午12_11_17.png",
+        "caption": "A woman stands to the left of a man, talking on the phone.",
+        "image_id": "03"
+    }, 
+    {
+        "image_path": "/home/jncsnlp3/SSD2/syy/aaai24_itr_cusa-main_06/dataset/test/ChatGPT Image 2025年8月31日 下午12_11_19.png",
+        "caption": "A woman stands to the right of a man, talking on the phone.",
+        "image_id": "04"
+    }, 
+    {
+        "image_path": "/home/jncsnlp3/SSD2/syy/aaai24_itr_cusa-main_06/dataset/test/ChatGPT Image 2025年8月31日 下午12_11_17.png",
+        "caption": "The picture shows a man on the left and a woman on the right. The man is talking on the phone.",
+        "image_id": "05"
+    }, 
+    {
+        "image_path": "/home/jncsnlp3/SSD2/syy/aaai24_itr_cusa-main_06/dataset/test/ChatGPT Image 2025年8月31日 下午12_11_19.png",
+        "caption": "The picture shows a man on the right and a woman on the left. The man is talking on the phone.",
+        "image_id": "06"
+    }, 
+    {
+        "image_path": "/home/jncsnlp3/SSD2/syy/aaai24_itr_cusa-main_06/dataset/test/ChatGPT Image 2025年8月31日 下午12_11_17.png",
+        "caption": "The picture shows a man on the left and a woman on the right. The woman is talking on the phone.",
+        "image_id": "07"
+    }, 
+    {
+        "image_path": "/home/jncsnlp3/SSD2/syy/aaai24_itr_cusa-main_06/dataset/test/ChatGPT Image 2025年8月31日 下午12_11_19.png",
+        "caption": "The picture shows a man on the right and a woman on the left. The woman is talking on the phone.",
+        "image_id": "08"
+    }, 
+    {
+        "image_path": "/home/jncsnlp3/SSD2/syy/LexLIP-ICCV23-main/dataset/F30k/f30k_data/1007129816.jpg",
+        "caption": "A man with glasses is wearing a beer can crocheted hat .",
+        "image_id": "09"
+    },
+    {
+        "image_path": "/home/jncsnlp3/SSD2/syy/aaai24_itr_cusa-main_06/dataset/test/36979.jpg",
+        "caption": "xxxxxxxxxxxxxx",
+        "image_id": "10"
+    }
+]
